@@ -1,1 +1,0 @@
-print("Terve," + input ("what is your name!\n"))
